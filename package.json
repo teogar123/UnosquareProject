@@ -1,0 +1,19 @@
+{
+  "name": "microsoftproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-allure-reporter": "^1.0.2",
+    "jasmine-spec-reporter": "^7.0.0",
+    "node-env-file": "^0.1.8"
+  }
+}
